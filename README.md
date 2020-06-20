@@ -8,8 +8,8 @@ To clone  the respository to system
 Install git on your system from 
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git 
 
-*  After the installation use command.
-git clone https://github.com/njayanthadithya/Sales_analysis.git
+*  After the installation use command 
+-> git clone https://github.com/njayanthadithya/Sales_analysis.git
 
 * Install Anaconda navigator from https://docs.anaconda.com/anaconda/navigator/
 
