@@ -1,16 +1,14 @@
 # Sales Analysis
-Perdroming data analysis using pandas library
+Performing data analysis using pandas library
 
 # Setup
 
-Clone the repository and store it in your google drive
-
+* Clone the repository
 To clone  the respository to system
-
 Install git on your system from 
-https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git 
 
-## Use command
+*  After the installation use command.
 git clone https://github.com/njayanthadithya/Sales_analysis.git
 
 ## References
