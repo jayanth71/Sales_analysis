@@ -1,7 +1,7 @@
 # Sales Analysis
 Performing data analysis using pandas library
 
-# Setup
+## Setup
 
 * Clone the repository
 To clone  the respository to system
