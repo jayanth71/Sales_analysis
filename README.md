@@ -3,8 +3,7 @@ Performing data analysis using jupyter notebook and the pandas library.
 
 ## Setup
 
-* Clone the repository
-To clone  the respository to system
+* To clone  the respository to system
 Install git on your system from 
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git 
 
