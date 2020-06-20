@@ -14,6 +14,6 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 git clone https://github.com/njayanthadithya/Sales_analysis.git
 
 ## References
-*https://github.com/KeithGalli/Pandas-Data-Science-Tasks
-*https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+* https://github.com/KeithGalli/Pandas-Data-Science-Tasks
+* https://help.github.com/en/github/getting-started-with-github/fork-a-repo
 
