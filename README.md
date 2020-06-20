@@ -1,5 +1,5 @@
 # Sales Analysis
-Performing data analysis using pandas library
+Performing data analysis using jupyter notebook and the pandas library.
 
 ## Setup
 
@@ -10,6 +10,10 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 *  After the installation use command.
 git clone https://github.com/njayanthadithya/Sales_analysis.git
+
+* Install Anaconda navigator from https://docs.anaconda.com/anaconda/navigator/
+
+* Run the Sales_analysis.ipynb file using jupyter notebook.
 
 ## References
 * https://github.com/KeithGalli/Pandas-Data-Science-Tasks
